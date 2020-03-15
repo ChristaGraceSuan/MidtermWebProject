@@ -1,0 +1,46 @@
+.jumbotron {
+    width: 100%;
+    background-color: darksalmon !important;
+  }
+
+h3{
+    color: black;
+}
+p{  
+    color: black;
+}
+.navbar{
+    background-color: gray;
+    
+  }
+.content{
+    padding: 50px;
+    text-align: center;
+}
+.icon{
+    width: 100%;
+}
+.icons{
+    padding: 10%;
+}
+.mycon{
+    text-align: center;
+}
+
+.con{
+    height: auto;
+    width: 50%;
+  }
+
+.myend{
+    text-align: center;
+  }
+  
+.end{
+    height: 50%;
+    width: 25%;
+  }
+  .container{
+    width: 100%;
+    height: auto;
+  }

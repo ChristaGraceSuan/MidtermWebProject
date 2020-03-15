@@ -1,0 +1,38 @@
+.jumbotron{
+    background-color: darksalmon !important;
+    width: 100%;
+}
+
+.navbar{
+    background-color: gray;
+    
+}
+
+.mq{
+    padding-bottom: 5%;
+    text-align: center;
+}
+.content{
+    padding: 5%;
+    text-align: center;
+}
+.qs{
+    width: 100%;
+}
+.qs:hover{
+    transform: scale(1.2);
+}
+
+.myend{
+    text-align: center;
+  }
+  
+.end{
+    height: 50%;
+    width: 25%;
+  }
+
+  .mqq{
+    height: auto;
+    width: 50%;
+  }

@@ -1,0 +1,40 @@
+.navbar{
+  background-color: gray;
+}
+
+.jumbotron{
+  background-color: darksalmon !important;
+  background-size: cover;
+  width: 100%;
+}
+
+.pi{
+  text-align: center;
+  padding: 50px;
+}
+
+.pic{
+  padding-top: 10%;
+  width: 100%;
+}
+.quote{
+  text-align: center;
+  padding-top: 20%;
+}
+.itsme{
+  padding-top: 30%;
+}
+h5{
+  font-family: cursive;
+}
+.mee{
+  width: 100%;
+}
+.myend{
+  text-align: center;
+}
+
+.end{
+  height: 50%;
+  width: 25%;
+}

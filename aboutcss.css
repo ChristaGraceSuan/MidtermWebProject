@@ -1,0 +1,38 @@
+.jumbotron{
+    background-color: darksalmon !important;
+    width: 100%;
+}
+
+.navbar{
+    background-color: gray;
+    
+}
+
+.pi{
+    text-align: center;
+}
+
+.pic{
+    height: 30%px;
+    width: 100%;
+    
+}
+
+.container{
+    width: 100%;
+}
+
+.row > .col{
+    padding: 30px;
+}
+.myend{
+    text-align: center;
+  }
+  
+.end{
+    height: 50%;
+    width: 25%;
+  }
+  .info{
+      padding-top: 30%;
+  }
